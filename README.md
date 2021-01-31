@@ -18,3 +18,7 @@
 
 Hi, Welcome to my profile. I'm Shubham Kumar Gupta and my friends call me SKG. I am working as Assistant System Engineer (Role: Automation Engineer) at Tata Consultancy Services (World's largest IT company by market cap).
 
+<br>
+<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+
+
