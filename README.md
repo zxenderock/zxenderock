@@ -1,13 +1,13 @@
-# Shubham Kumar Gupta <img src="https://github.com/zxenderock/zxenderock/blob/main/SKGvector.png" width="40px">
+# Shubham Kumar Gupta 🧔
 
 <a href="https://twitter.com/zxenderock">
-  <img align="left" alt="Shubham Kumar Gupta | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Shubham Kumar Gupta | Twitter" width="22px" src="https://github.com/zxenderock/zxenderock/blob/main/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/zxenderock">
-  <img align="left" alt="Shubham Kumar Gupta | LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Shubham Kumar Gupta | LinkdeIN" width="22px" src="https://github.com/zxenderock/zxenderock/blob/main/linkedin.png" />
 </a>
 <a href="https://www.instagram.com/zxenderock">
-  <img align="left" alt="Shubham Kumar Gupta | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Shubham Kumar Gupta | Instagram" width="22px" src="https://github.com/zxenderock/zxenderock/blob/main/insta.png" />
 </a>
 
 <br />
