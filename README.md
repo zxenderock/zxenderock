@@ -1,4 +1,4 @@
-# Shubham Kumar Gupta <img src="https://github.com/zxenderock/SKGprofile/blob/main/SKGvector.png" width="40px">
+# Shubham Kumar Gupta <img src="https://github.com/zxenderock/zxenderock/blob/main/SKGvector.png" width="40px">
 
 <a href="https://twitter.com/zxenderock">
   <img align="left" alt="Shubham Kumar Gupta | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
