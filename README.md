@@ -9,7 +9,6 @@
 <a href="https://www.instagram.com/zxenderock">
   <img align="left" alt="Shubham Kumar Gupta | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<img src="https://visitor-badge.glitch.me/badge?page_id=zxenderock" alt="visitor badge"/>
 
 <br />
 
@@ -19,7 +18,6 @@
 
 Hi, Welcome to my profile. I'm Shubham Kumar Gupta and my friends call me SKG. I am working as Assistant System Engineer (Role: Automation Engineer) at Tata Consultancy Services (World's largest IT company by market cap).
 
-<br>
-<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
-
-
+**The things you should know about me :**
+ - 😆 Please call me SKG.
+ 
