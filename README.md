@@ -9,6 +9,7 @@
 <a href="https://www.instagram.com/zxenderock">
   <img align="left" alt="Shubham Kumar Gupta | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<img src="https://visitor-badge.glitch.me/badge?page_id=xenderock" alt="visitor badge"/>
 
 <br />
 
@@ -20,4 +21,3 @@ Hi, Welcome to my profile. I'm Shubham Kumar Gupta and my friends call me SKG. I
 
 **The things you should know about me :**
  - 😆 Please call me SKG.
- 
