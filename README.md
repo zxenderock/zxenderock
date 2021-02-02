@@ -1,5 +1,4 @@
-# Shubham Kumar Gupta 🧔
-
+<img src="https://github.com/zxenderock/zxenderock/blob/main/SKG.png" alt="banner"/>
 <a href="https://twitter.com/zxenderock">
   <img align="left" alt="Shubham Kumar Gupta | Twitter" width="22px" src="https://github.com/zxenderock/zxenderock/blob/main/twitter.png" />
 </a>
@@ -10,13 +9,7 @@
   <img align="left" alt="Shubham Kumar Gupta | Instagram" width="22px" src="https://github.com/zxenderock/zxenderock/blob/main/insta.png" />
 </a>
 <img src="https://visitor-badge.glitch.me/badge?page_id=xenderock" alt="visitor badge"/>
-
-<br />
-
-<br />
-
-<br />
-<img src="https://github.com/zxenderock/zxenderock/blob/main/SKG.png" alt="banner"/>
+<br/>
 Hi, Welcome to my profile. I'm Shubham Kumar Gupta and my friends call me SKG. I am working as Assistant System Engineer (Role: Automation Engineer) at Tata Consultancy Services (World's largest IT company by market cap).
 
 **The things you should know about me :**
