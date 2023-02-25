@@ -1,4 +1,7 @@
-### Hi there 👋
+Hello World!
+
+### "The sad thing about artificial intelligence is that it lacks artifice and therefore intelligence."
+My Name is Shubham Kumar Gupta. I am working in Software Industry since 2019. Currently I am working in L&T Infotech as Senior Software Engineer. Before this I used to work as TCS as System Engineer.
 
 <!--
 **zxenderock/zxenderock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
